@@ -42,7 +42,7 @@
         { "straight": 2.0, "rise": -0.22 },
         { "arc": 90, "radius": 0.5, "rise": -0.08 },
         { "straight": 0.4, "rise": -0.04 },
-        { "straight": 0.3, "zone": "red", "stop": 5, "barrier": true, "line": false },
+        { "straight": 0.3, "zone": "red", "stop": 5, "barrier": true },
         { "straight": 0.4 },
         { "straight": 0.3, "zone": "green", "finish": true, "line": false }
       ]
